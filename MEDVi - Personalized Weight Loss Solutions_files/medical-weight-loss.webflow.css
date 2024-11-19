@@ -54,7 +54,7 @@ h1 {
 }
 
 h2 {
-  color: #fff;
+  color: #006269;
   margin-top: 20px;
   margin-bottom: 20px;
   font-size: 38px;
@@ -81,7 +81,7 @@ h4 {
 }
 
 p {
-  color: #6b6b6b;
+  color: #006269;
   margin-bottom: 10px;
   font-size: 16px;
   line-height: 30px;
@@ -384,7 +384,7 @@ a {
 }
 
 .h2 {
-  color: #fff;
+  color: #006269;
   margin-bottom: 30px;
   font-size: 44px;
   font-weight: 300;
@@ -392,7 +392,7 @@ a {
 }
 
 .p {
-  color: #6b6b6b;
+  color: #006269;
   font-size: 16px;
   line-height: 30px;
 }
@@ -1028,11 +1028,11 @@ a {
 }
 
 .section-3 {
-  background-image: linear-gradient(159deg, #212a34 40%, #161e27 80%);
+  background: linear-gradient(-180deg, #e8fff4 0%, rgba(255,255,255,1) 100%);
 }
 
 .paragraph-5 {
-  color: #dbd9d9;
+  color: #006269;
 }
 
 .paragraph-5.p-black {
@@ -1287,7 +1287,7 @@ a {
 }
 
 .section-7 {
-  background-image: url('../images/section-bg-home-2.jpg');
+  background: #e8fff4;
   background-position: 0 0;
   background-size: auto;
   padding-top: 60px;
@@ -1295,7 +1295,7 @@ a {
 }
 
 .dropdown {
-  background-color: #161e27;
+  background-color: #caffe8;
   width: 100%;
   margin-bottom: 15px;
 }
@@ -1305,7 +1305,7 @@ a {
 }
 
 .text-block-4, .icon-2 {
-  color: #fff;
+  color: #006269;
 }
 
 .bold-text-3, .paragraph-15, .bold-text-4 {
@@ -1313,7 +1313,7 @@ a {
 }
 
 .div-block-19 {
-  background-color: #161e27;
+  background-color: #caffe8;
   padding: 10px 20px;
 }
 
@@ -1563,6 +1563,13 @@ a {
     font-size: 42px;
     line-height: 52px;
   }
+  .heading-99 {
+    font-family: Oswald, sans-serif;
+    font-size: 42px;
+    line-height: 54px;
+    color: #006269;
+
+  }
 
   .heading-6.h-black {
     color: #000;
@@ -1617,7 +1624,7 @@ a {
   }
 
   .section-3 {
-    background-image: linear-gradient(153deg, #040404, #040404 0%, #0d1115 56%, #161e27);
+    background: linear-gradient(-180deg, rgba(202,255,232,1) 0%, rgba(255,255,255,1) 100%);
   }
 
   .text-span-6 {
@@ -1625,7 +1632,7 @@ a {
   }
 
   .paragraph-5 {
-    color: #fff;
+    color: #006269;
     font-family: Open Sans, sans-serif;
     font-size: 18px;
   }
@@ -2005,7 +2012,7 @@ a {
   }
 
   .section-7 {
-    background-image: url('../images/section-bg-home-2.jpg');
+    background: #e8fff4;
     background-position: 50%;
     background-size: cover;
     padding-top: 80px;
@@ -2035,7 +2042,7 @@ a {
   }
 
   .text-block-4 {
-    color: #fff;
+    color: #006269;
     padding-top: 0;
     padding-bottom: 0;
     font-size: 23px;
@@ -2051,8 +2058,8 @@ a {
   }
 
   .div-block-19 {
-    color: #fff;
-    background-color: #161e27;
+    color: #006269;
+    background-color: #caffe8;
     padding: 20px;
     font-family: Open Sans, sans-serif;
     font-size: 16px;
@@ -2256,7 +2263,7 @@ a {
     font-family: Oswald, sans-serif;
     font-size: 42px;
     line-height: 54px;
-    color: #fff;
+    color: #006269;
 
   }
 
